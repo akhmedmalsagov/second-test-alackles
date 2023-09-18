@@ -9,10 +9,10 @@ import org.junit.jupiter.params.provider.CsvSource;
 
 import java.io.*;
 
-public class TestAdd {
+public class TestCounter {
 
    @Test
-   public void testAdd()
+   public void testCounter()
    {
      PrintStream originalOut = System.out;
      ByteArrayOutputStream bos = new ByteArrayOutputStream();
