@@ -2,9 +2,9 @@
 
 ## 🏁 Assignment Goals
 
-- [ ] Learn to run simple Java programs [Java.1, Java.3]
-- [ ] Understand how variables are represented in a computer [CS.2, CS.3]
-- [ ] Practice revising/revisiting previous ideas [Reflect.2]
+- [x] Learn to run simple Java programs [Java.1, Java.3]
+- [x] Understand how variables are represented in a computer [CS.2, CS.3]
+- [x] Practice revising/revisiting previous ideas [Reflect.2]
 
 ## ⏲️ Struggle Time
 
@@ -19,9 +19,9 @@ There are three small Java programs in the folder `ptI`. Right now, they are **f
 2. The program `Add.java` should print the sum of the variables `x` and `y`. 
 3. The program `Counter.java` should print all of the numbers from `a` to `b`. **Note:** This program contains concepts you haven't seen yet. That's okay; try running the program and seeing what happens, then trying to mess around with the code to see if you can discover how to print from `a` to `b`. 
 
-- [ ] Complete Program 1
-- [ ] Complete Program 2
-- [ ] Complete Program 3
+- [x] Complete Program 1
+- [x] Complete Program 2
+- [x] Complete Program 3
 
 ### [EXTENSION] Return to Binary 
 
