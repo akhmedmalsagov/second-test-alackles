@@ -2,15 +2,14 @@ package cmsc150.problemset2a.q3;
 
 public class Counter {
 
-	public static void main(final String[] args) {
+	public static void main(String[] args) {
 		
-        int a = 5;
-        int b = 20;
-        for (int i = 5; i < 21; i++) {
+        int x = 20;
+        int y = 30;
+		
+        for (int i = 20; i < 30; i++) {
             System.out.println(i);
         }
-		//int x = 20;
-		//y = 30;
 	}
 
 }
