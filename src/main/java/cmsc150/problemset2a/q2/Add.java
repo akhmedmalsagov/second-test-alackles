@@ -1,12 +1,18 @@
 package cmsc150.problemset2a.q2;
 
-public class Add {
+public class Counter {
 
-	public static void main(final String[] args) {
-		// Should print out the numeral 50
-		System.out.println(50);
-		//int x = 20;
-		//y = 30;
-	}
+    public static void main(String[] args) {
 
+        int x = 20;
+        int y = 30;
+		
+        for (int i = 20; i < 30; i++) {
+            if (i != y) {
+                System.out.print(i + ", ");
+            } else {
+                System.out.print(i + ". ");
+            }
+        }
+    }
 }
